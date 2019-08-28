@@ -19,6 +19,9 @@ dependencies:
 - name: java-yourname
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: quickstart
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: spring-boot-sample
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.8
